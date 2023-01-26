@@ -7,6 +7,5 @@
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=roshitx&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## Most used languages :
-> What language i likely used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshitx&layout=compact)](https://github.com/roshitx/github-readme-stats)
 
