@@ -2,7 +2,6 @@
 ### 
 ![](https://komarev.com/ghpvc/?username=roshitx&color=green)
 #### Contact Me : auliarasyidalzahrawi@gmail.com
-###             : https://linktr.ee/roshit
 [<img src="https://img.icons8.com/color/48/null/linkedin.png"/>](https://www.linkedin.com/in/rsht/)
 [<img src="https://img.icons8.com/fluency/48/null/instagram-new.png"/>](https://www.instagram.com/roshitx)
 ---
