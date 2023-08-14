@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel, React**
 
-- 👨‍💻 All of my projects are available at [https://roshit.netlify.app](https://roshit.netlify.app)
+- 👨‍💻 All of my projects are available at [https://roshit.site](https://roshit.site)
 
 - 📫 How to reach me **auliarasyidalzahrawi@gmail.com**
 
