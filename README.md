@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Roshit</h1>
-<h3 align="center">Newbie Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshitx&label=Profile%20views&color=0e75b6&style=flat" alt="roshitx" /> </p>
 
-- 🌱 I’m currently learning **Laravel, React**
+- 🌱 I’m currently learning **NextJS, React, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://roshit.site](https://roshit.site)
 
